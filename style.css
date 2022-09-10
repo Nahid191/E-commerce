@@ -1,0 +1,22 @@
+.container{
+    margin-bottom: 65px;
+}
+.orange_bg{
+    background-color: burlywood;
+    border-radius: 12px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: darkblue;
+}
+.b{
+    background-image: linear-gradient(to bottom, #881b46 0%, #FF136F 100% );
+    color: aliceblue;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: progress;
+}
