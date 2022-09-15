@@ -20,3 +20,45 @@
     padding: 9px 25px;
     cursor: progress;
 }
+.c1{
+background-color: cadetblue;
+padding: 10px 30px;
+border-radius: 12px;
+
+}
+.c2{
+background-color: coral;
+padding: 10px 30px;
+border-radius: 12px;
+}
+.c3{
+    background-color: darkcyan;
+    padding: 10px 30px;
+    border-radius: 12px;
+}
+.cat h1{
+    color: aliceblue;
+}
+.cat img{
+    width: 100px;
+    
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+.card-footer{
+    background-color: white;
+    border-top:none ;
+}
+.s{
+    background-color: rgb(49, 0, 139);
+     color: aliceblue;
+}
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
